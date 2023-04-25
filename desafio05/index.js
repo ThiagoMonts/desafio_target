@@ -1,4 +1,4 @@
-// Criad uma variável para armazenar a string informada pelo usuário
+// Criada uma variável para armazenar a string informada pelo usuário
 let string = prompt("Digite uma string: ");
 
 // Criada uma variável para armazenar a string invertida
